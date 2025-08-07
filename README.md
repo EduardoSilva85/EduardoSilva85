@@ -14,7 +14,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado para poder me esp
 
 </div>
 
-## 🧰 Tecnologias e Linguagem que atualmente estou estudando:
+## 🧰 Atualmente estou estudando as Tecnologias e Linguagem:
 
 <div style="display: inline_block"><br>
  
