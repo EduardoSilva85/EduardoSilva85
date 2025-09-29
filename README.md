@@ -4,7 +4,7 @@ Olá! Me chamo **Eduardo Silva** estou iniciando meus estudos em **Ciência da C
 Sou apaixonado por tecnologia e estou em constante aprendizado para poder me especializar na área.  
   
   
-# 📈 Minhas Estatísticas do Github
+# 📈 Minhas Estatísticas do Github  
 
 <div>
   
