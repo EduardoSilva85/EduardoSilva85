@@ -1,9 +1,9 @@
 # 👨‍💻 Sobre mim
-
+  
 Olá! Me chamo **Eduardo Silva** estou iniciando meus estudos em **Ciência da Computação**.  
-Sou apaixonado por tecnologia e estou em constante aprendizado para poder me especializar na área.
-
-
+Sou apaixonado por tecnologia e estou em constante aprendizado para poder me especializar na área.  
+  
+  
 # 📈 Minhas Estatísticas do Github
 
 <div>
