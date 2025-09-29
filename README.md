@@ -37,7 +37,9 @@ Sou apaixonado por tecnologia e estou em constante aprendizado para poder me esp
 
 ## 🚀 Projetos em destaque
 
-- 🧮 Para iniciar meus estudos pretendo criar uma Calculadora de Orçamento Pessoal. (_Assim que possivel estarei disponíbilizando o link do projeto_)
+- 🧮 Para iniciar meus estudos comecei com a Linguagem C fazendo pequenos projetos segue o link do Repositorio abaixo;  
+- Pequenos projetos testes: <a href="https://github.com/EduardoSilva85/Aulas-Algoritmo-e-Pensamento-Computacional-Testes">  
+- Atividade de um projeto de sistema bancário:<a href="https://github.com/EduardoSilva85/Atividade2---Sistema-Bancario-Simples">  
 
 ## 📫 Me encontre
 
