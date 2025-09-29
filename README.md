@@ -37,7 +37,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado para poder me esp
 
 ## 🚀 Projetos em destaque
 
-- 🧮 Para iniciar meus estudos comecei com a Linguagem C fazendo pequenos projetos segue o link do Repositorio abaixo;  
+- 🧮 Para iniciar meus estudos comecei com a Linguagem C fazendo pequenos projetos segue os links dos Repositorios abaixo;  
 - Pequenos projetos testes: <https://github.com/EduardoSilva85/Aulas-Algoritmo-e-Pensamento-Computacional-Testes>  
 - Atividade de um projeto de sistema bancário:<https://github.com/EduardoSilva85/Atividade2---Sistema-Bancario-Simples>  
 
